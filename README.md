@@ -1,6 +1,6 @@
 # Merge .json Logs 
 ---
-Quick script to merge all the .json file(s) in a directory.
+Quick script to merge all the .json logs into a single log in a directory.
 
 ---
 ### Directions:
